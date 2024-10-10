@@ -1,0 +1,6 @@
+# Handle all text files (like .py, .csv) properly
+* text=auto
+
+# Forcing specific endings for Python and CSV files:
+*.py eol=lf
+*.csv eol=lf
