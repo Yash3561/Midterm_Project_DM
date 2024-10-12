@@ -54,7 +54,7 @@ This project applies association rule mining algorithms (Brute Force, Apriori, a
 
 - Ensure that dataset directory `Datasets_CSV` is in the same folder as the `source_code.py` and `source_code.ipynb` when running the code.
   
-- For custom datasets user shoudl provide proper path of the CSV file.
+- For custom datasets user should provide proper path of the CSV file.
   
 - Errors in the output are marked with an asterisk (*) for easy identification.
 
