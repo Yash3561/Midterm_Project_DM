@@ -22,7 +22,7 @@ This project applies association rule mining algorithms (Brute Force, Apriori, a
 
 1. **Install Python (Version 3.6 or higher)**: Download and install from [python.org](https://www.python.org/downloads/).
    
-3. **Install Required Libraries by Requirements File**: Run the following command to install the necessary packages:
+2. **Install Required Libraries by Requirements File**: Run the following command to install the necessary packages:
    
     ```
     pip install -r requirements.txt
@@ -30,12 +30,12 @@ This project applies association rule mining algorithms (Brute Force, Apriori, a
 
     **OR**
    
-3. **Install Required Libraries by Manually**: Run the following command to install the necessary packages:
+2. **Install Required Libraries by Manually**: Run the following command to install the necessary packages:
    
     ```
     pip install pandas mlxtend
     ```
-4. **Running the Code**: Execute the Python file `source_code.py` by using command:
+3. **Running the Code**: Execute the Python file `source_code.py` by using command:
    
    ```
    python source_code.py
