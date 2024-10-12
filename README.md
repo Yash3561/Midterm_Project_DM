@@ -27,12 +27,15 @@ This project applies association rule mining algorithms (Brute Force, Apriori, a
     ```
     pip install -r requirements.txt
     ```
-4. **Install Required Libraries by Manually**: Run the following command to install the necessary packages:
+
+    **OR**
+   
+3. **Install Required Libraries by Manually**: Run the following command to install the necessary packages:
    
     ```
     pip install pandas mlxtend
     ```
-5. **Running the Code**: Execute the Python file `source_code.py` by using command:
+4. **Running the Code**: Execute the Python file `source_code.py` by using command:
    
    ```
    python source_code.py
